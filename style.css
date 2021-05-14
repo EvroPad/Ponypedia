@@ -5,6 +5,25 @@
   font-style: normal;
 }
 
+#pony {
+  position: relative;
+  top: 448px;
+  right: -586px;
+}
+
+#message {
+  position: relative;
+  top: 305px;
+  right: -829px;
+  background-color: white;
+  border: #ea92d3 solid 4px;
+  border-top-left-radius: 150px;
+  border-top-right-radius: 150px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 150px;
+  padding: 18px
+}
+
 body {
   font-size: 16px;
   font-family: Roboto, sans-serif;
