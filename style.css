@@ -156,4 +156,17 @@ body p {
   #pinky {
     margin-top: 0px !important;
   }
+  .content {
+    flex-direction: column;
+    align-items: center;
+  }
+  .section h2 {
+    text-align: center;
+  }
+  .content img {
+    min-height: 200px;
+    min-width: 200px;
+    padding: 20px 20px;
+    margin-top: -5px;
+  }
 }
