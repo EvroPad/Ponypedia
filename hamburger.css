@@ -5,10 +5,10 @@
   justify-content: center;
 }
 
-a,
-a:visited,
-a:hover,
-a:active {
+.outer-menu a,
+.outer-menu a:visited,
+.outer-menu a:hover,
+.outer-menu a:active {
   color: inherit;
   text-decoration: none;
 }

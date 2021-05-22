@@ -142,6 +142,34 @@ body p {
   background: #eed4d4;
 }
 
+/* I SHULD CREATED THIS BEFORE CODING */
+.text-centered {
+  text-align: center;
+}
+.comments {
+  margin: 70px 30px 30px 30px;
+}
+
+.nameiava {
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.nameiava img {
+  margin-right: 20px;
+}
+.nameiava h3 {
+  margin-right: 20px;
+}
+.comments .text {
+  margin: 20px;
+}
+.br-50 {
+  border-radius: 50%;
+}
+
 @media (max-width: 1000px) {
   .aside {
     display: none; 
