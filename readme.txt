@@ -4,4 +4,4 @@ Ponypedia — це вiкiпедiя, або iначи кажучи, бiблiот�
 Вiзитною карткою сайта буде "жива" понi.
 
 Сайт:
-https://evropad.github.io/ponyoedia/
+https://evropad.github.io/ponypedia/
