@@ -146,4 +146,14 @@ body p {
   .aside {
     display: none; 
   }
+
+  #pony {
+    display: none;
+  }
+  #message {
+    display: none;
+  }
+  #pinky {
+    margin-top: 0px !important;
+  }
 }
